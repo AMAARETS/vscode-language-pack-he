@@ -10,11 +10,9 @@
 
 לחץ על `Enter` ותוצג רשימת שפות מותקנות לפי אזור, כאשר האזור הנוכחי מסומן. בחר אזור אחר כדי להחליף את שפת הממשק.
 
-למידע נוסף ראה [Docs](https://go.microsoft.com/fwlink/?LinkId=761051).
-
 ## תרומה
 
-להעברת משוב על שיפור התרגום, יש לפתוח Issue במאגר [vscode-loc](https://github.com/microsoft/vscode-loc).
+להעברת משוב על שיפור התרגום, יש לפתוח Issue במאגר [vscode-language-pack-he](https://github.com/AMAARETS/vscode-language-pack-he).
 
 ## רישיון
 
@@ -32,5 +30,3 @@
 * GOOGLE AI STUDIO
 
 **תורמים:**
-
-**שימוש
