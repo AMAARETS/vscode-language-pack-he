@@ -120,7 +120,7 @@
 			"To enable project-wide JavaScript/TypeScript language features, exclude folders with many files, like: {0}": "כדי לאפשר תכונות שפה של JavaScript/TypeScript ברחבי הפרויקט, אל תכלול תיקיות עם קבצים רבים, כמו: {0}",
 			"To enable project-wide JavaScript/TypeScript language features, exclude large folders with source files that you do not work on.": "כדי לאפשר תכונות שפה של JavaScript/TypeScript ברחבי הפרויקט, אל תכלול תיקיות גדולות עם קבצי מקור שאינך עובד עליהם.",
 			"TypeScript Server Log": "יומן שרת TypeScript",
-			"TypeScript Task in tasks.json contains \"\\\\". TypeScript tasks tsconfig must use \"/\"": "משימת TypeScript ב-tasks.json מכילה \"\\\\". משימות TypeScript tsconfig חייבות להשתמש ב-\"/\"",
+			"TypeScript Task in tasks.json contains \"\\\\\". TypeScript tasks tsconfig must use \"/\"": "משימת TypeScript ב-tasks.json מכילה \"\\\\\". משימות TypeScript tsconfig חייבות להשתמש ב-\"/\"",
 			"TypeScript Version": "גרסת TypeScript",
 			"TypeScript language server exited with error. Error message is: {0}": "שרת שפת TypeScript יצא עם שגיאה. הודעת השגיאה היא: {0}",
 			"TypeScript version": "גרסת TypeScript",
