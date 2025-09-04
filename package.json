@@ -1,16 +1,16 @@
 {
-	"name": "vscode-language-pack-he",
-	"displayName": "Hebrew Language Pack for Visual Studio Code",
+	"name": "hebrew-ui-translation-amaarets",
+	"displayName": "Hebrew UI Translation by amaarets for VS Code",
 	"description": "Language pack extension for Hebrew",
-	"version": "1.103.0",
-	"publisher": "MS-CEINTL",
+	"version": "1.103.1",
+	"publisher": "AMAARETS",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Microsoft/vscode-loc"
 	},
 	"license": "SEE MIT LICENSE IN LICENSE.md",
 	"engines": {
-		"vscode": "^1.103.0"
+		"vscode": ">=1.0.0"
 	},
 	"icon": "languagepack.png",
 	"categories": [
