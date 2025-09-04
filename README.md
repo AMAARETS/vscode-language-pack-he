@@ -29,4 +29,5 @@
 * AMAARETS
 * GOOGLE AI STUDIO
 
-**תורמים:**
+# כדי לבנות את המאגר
+יש לשכפל אותו ע"י `git clone https://github.com/AMAARETS/vscode-language-pack-he` ואח"כ להריץ בתיקיה הראשית `vsce package`
