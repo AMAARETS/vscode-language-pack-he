@@ -2,7 +2,7 @@
 	"name": "hebrew-ui-translation-amaarets",
 	"displayName": "Hebrew UI Translation by amaarets for VS Code",
 	"description": "Language pack extension for Hebrew",
-	"version": "1.103.1",
+	"version": "1.103.2",
 	"publisher": "AMAARETS",
 	"repository": {
 		"type": "git",
